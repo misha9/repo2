@@ -1,0 +1,21 @@
+# Program make a simple calculator
+
+# This function adds two numbers
+def add(x, y):
+    pass
+
+# This function subtracts two numbers
+def subtract(x, y):
+    pass
+
+# This function multiplies two numbers
+def multiply(x, y):
+    pass
+
+# This function divides two numbers
+def divide(x, y):
+    return x / y
+
+
+
+
