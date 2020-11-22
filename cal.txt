@@ -2,7 +2,7 @@
 
 # This function adds two numbers
 def add(x, y):
-    pass
+    return x+y
 
 # This function subtracts two numbers
 def subtract(x, y):
